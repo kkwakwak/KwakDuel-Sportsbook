@@ -1,3 +1,18 @@
 body {
-    background: blue;
+    background: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    line-height: 1.6;
+    width: 100%;
+    height: 100%
+    margin: 0
+  }
+
+  .navigation {
+    background-color: black;
+    color: white;
+    height: 70px
+  }
+
+ul {list-style-type: none;
   }
